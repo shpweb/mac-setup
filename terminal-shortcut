@@ -1,0 +1,8 @@
+ Ctrl+A = jump to the beginning of the current command  
+ Ctrl+E = jump to the end
+ 
+ Esc+F = move to the beginning of the next word 
+ Esc+B = move to the beginning of the current word
+  
+ Esc+del = delete the world left to the cursor
+
