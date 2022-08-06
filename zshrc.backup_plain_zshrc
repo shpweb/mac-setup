@@ -1,0 +1,5 @@
+export PATH="$PATH:/opt/homebrew/bin"
+#export PATH="/opt/homebrew/opt/openjdk@18/bin:$PATH:/opt/homebrew/bin"
+export PATH="$HOME/.jenv/bin:$PATH"
+eval "$(jenv init -)"
+export JAVA_HOME=$(/usr/libexec/java_home)
